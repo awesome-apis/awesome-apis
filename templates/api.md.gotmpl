@@ -1,0 +1,21 @@
+# {{ .Name }}
+{{ if .Logo }}
+<p align="center">
+    <img width="400" src="{{ .Logo }}" />
+</p>
+{{ end }}
+
+{{ .Description }}
+
+**Categories**: {{ range .Categories }} [{{ . }}](https://github/awesome-apis/awesome-apis#{{ . | slug }}),{{end}}
+
+{{ if .Libraries }}
+## Libraries
+{{ range $platform, $libraries := .Libraries }}
+### {{ $platform }}
+{{ range $libraries  }}
+- [{{ .Name }}]({{ .SourceCodeURI }})
+{{ end }}
+
+{{ end }}
+{{ end }}
