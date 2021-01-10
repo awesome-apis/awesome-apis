@@ -1,8 +1,10 @@
-# <no value>
+# Verizon Cloud
 
 
-<no value>
+API for accessing stored pictures and other files stored by users of Verizon Cloud app. 403 - Forbidden
+**Categories**:
 
-**Categories**: 
+- [Files & Storage](https://github/awesome-apis/awesome-apis#files-and-storage)
+
 
 

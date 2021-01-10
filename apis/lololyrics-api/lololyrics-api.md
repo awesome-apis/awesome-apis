@@ -1,8 +1,10 @@
-# <no value>
+# Lololyrics API
 
 
-<no value>
+Specializes more in electronic dance music genres such as hardstyle. You see this page because there is no Web site at this address. Given an artist and track name, obtains its lyrics and metadata such as the year released and album art
+**Categories**:
 
-**Categories**: 
+- [Music & Audio](https://github/awesome-apis/awesome-apis#music-and-audio)
+
 
 

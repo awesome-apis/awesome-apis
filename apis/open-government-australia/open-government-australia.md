@@ -1,8 +1,10 @@
-# <no value>
+# Open Government, Australia
 
 
-<no value>
+Australian Government Open Data
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

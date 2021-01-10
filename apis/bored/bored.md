@@ -1,8 +1,10 @@
-# <no value>
+# Bored
 
 
-<no value>
+Find random activities to fight boredom
+**Categories**:
 
-**Categories**: 
+- [Development](https://github/awesome-apis/awesome-apis#development)
+
 
 

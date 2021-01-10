@@ -1,8 +1,15 @@
-# <no value>
+# Cats
 
 
-<no value>
+com
 
-**Categories**: 
+Here you'll find the API reference & Code examples for:
+1\. Searc. TheCatApi // Developer Experience
+
+Get your API Key from - https&#x3A;//TheCatAPI
+**Categories**:
+
+- [Animals](https://github/awesome-apis/awesome-apis#animals)
+
 
 

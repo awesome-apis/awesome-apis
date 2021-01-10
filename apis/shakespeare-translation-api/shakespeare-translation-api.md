@@ -1,8 +1,14 @@
-# <no value>
+# Shakespeare Translation Api
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/shakespeare-translation-api/logo_256x256.png" />
+</p>
 
 
-<no value>
+Translate from English to Shakespeare English
+**Categories**:
 
-**Categories**: 
+- [Translation](https://github/awesome-apis/awesome-apis#translation)
+
 
 

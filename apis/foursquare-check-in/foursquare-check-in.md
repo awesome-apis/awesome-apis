@@ -1,8 +1,12 @@
-# <no value>
+# Foursquare Check-In
 
 
-<no value>
+Allows you to check in to a place
+**Categories**:
 
-**Categories**: 
+- [Check-In](https://github/awesome-apis/awesome-apis#check-in)
+
+- [Social](https://github/awesome-apis/awesome-apis#social)
+
 
 

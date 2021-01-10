@@ -1,8 +1,10 @@
-# <no value>
+# Yahoo Weather
 
 
-<no value>
+Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more.  You can lookup weather by location
+**Categories**:
 
-**Categories**: 
+- [Weather](https://github/awesome-apis/awesome-apis#weather)
+
 
 

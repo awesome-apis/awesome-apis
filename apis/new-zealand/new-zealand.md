@@ -1,8 +1,10 @@
-# <no value>
+# Central bank of New Zealand
 
 
-<no value>
+Central bank of New Zealand
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

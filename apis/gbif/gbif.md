@@ -1,8 +1,10 @@
-# <no value>
+# GBIF
 
 
-<no value>
+Please refer to the documentation on the GBIF website. If you arrived here unexpectedly, please advise us so we can assist in updating the links. . This server provides access to the GBIF API
+**Categories**:
 
-**Categories**: 
+- [Math & Science](https://github/awesome-apis/awesome-apis#math-and-science)
+
 
 

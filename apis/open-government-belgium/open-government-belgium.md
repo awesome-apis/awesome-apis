@@ -1,8 +1,10 @@
-# <no value>
+# Open Government, Belgium
 
 
-<no value>
+The Belgian Open Data Initiative. The Belgian Open Data Initiative
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

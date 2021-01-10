@@ -1,8 +1,10 @@
-# <no value>
+# Fortnite Api
 
 
-<no value>
+A fortnite tracker api that returns data about and account
+**Categories**:
 
-**Categories**: 
+- [Games](https://github/awesome-apis/awesome-apis#games)
+
 
 

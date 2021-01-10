@@ -1,8 +1,10 @@
-# <no value>
+# Trivia Api
 
 
-<no value>
+100k+ trivia entries available via REST API
+**Categories**:
 
-**Categories**: 
+- [Reference](https://github/awesome-apis/awesome-apis#reference)
+
 
 

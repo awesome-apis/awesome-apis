@@ -1,8 +1,10 @@
-# <no value>
+# Rss News Api
 
 
-<no value>
+Open Source News Fetcher.  2021 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither the service provider nor the domain owner maintain any relationship wi
+**Categories**:
 
-**Categories**: 
+- [News & Feeds](https://github/awesome-apis/awesome-apis#news-and-feeds)
+
 
 

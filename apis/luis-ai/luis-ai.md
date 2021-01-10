@@ -1,8 +1,10 @@
-# <no value>
+# LUIS AI
 
 
-<no value>
+Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications
+**Categories**:
 
-**Categories**: 
+- [AI & ML](https://github/awesome-apis/awesome-apis#ai-and-ml)
+
 
 

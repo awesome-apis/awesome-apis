@@ -1,8 +1,12 @@
-# <no value>
+# Dropbox
 
 
-<no value>
+Â De. API for accessing stored files and pictures which is easy to use and free for small amounts of data.  With the DBX Platform, you can go from idea to implementation quickly and easily. Youâ€™ll save time and write fewer lines of code with our SDKs, powerful core API, and thorough documentation
+**Categories**:
 
-**Categories**: 
+- [Files & Storage](https://github/awesome-apis/awesome-apis#files-and-storage)
+
+- [Social](https://github/awesome-apis/awesome-apis#social)
+
 
 

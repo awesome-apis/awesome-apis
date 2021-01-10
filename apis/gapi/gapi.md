@@ -1,8 +1,10 @@
-# <no value>
+# Gapi
 
 
-<no value>
+We also provide top headlines from which you can filter by topic such as world, business, sports. Unofficial Google News API.  GNews is an API to search for articles from a variety of sources, including Google News
+**Categories**:
 
-**Categories**: 
+- [News & Feeds](https://github/awesome-apis/awesome-apis#news-and-feeds)
+
 
 

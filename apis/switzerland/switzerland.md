@@ -1,8 +1,10 @@
-# <no value>
+# Switzerland
 
 
-<no value>
+Swiss National Bank
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

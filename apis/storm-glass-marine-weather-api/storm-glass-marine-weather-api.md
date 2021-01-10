@@ -1,8 +1,10 @@
-# <no value>
+# Storm Glass Marine Weather API
 
 
-<no value>
+Read More. Global marine weather data from multiple sources in one single API!
+**Categories**:
 
-**Categories**: 
+- [Weather](https://github/awesome-apis/awesome-apis#weather)
+
 
 

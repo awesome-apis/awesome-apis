@@ -1,8 +1,13 @@
-# <no value>
+# Website Text Extraction
 
 
-<no value>
+Scrape websites and get their content as plaintext
+**Categories**:
 
-**Categories**: 
+- [Other](https://github/awesome-apis/awesome-apis#other)
+
+
+
+data),
 
 

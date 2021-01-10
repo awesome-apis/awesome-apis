@@ -1,8 +1,10 @@
-# <no value>
+# AnimeNewsNetwork
 
 
-<no value>
+ANN provides a direct feed to the Encyclopedia data in XML format
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

@@ -1,8 +1,10 @@
-# <no value>
+# FBI Wanted
 
 
-<no value>
+The FBI Wanted API is designed to help developers easily get information on the FBI wanted program
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

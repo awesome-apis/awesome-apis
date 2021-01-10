@@ -1,8 +1,10 @@
-# <no value>
+# Namedays Calendar
 
 
-<no value>
+API returns namedays for various countries
+**Categories**:
 
-**Categories**: 
+- [Calendar](https://github/awesome-apis/awesome-apis#calendar)
+
 
 

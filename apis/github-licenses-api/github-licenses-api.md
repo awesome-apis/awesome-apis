@@ -1,8 +1,10 @@
-# <no value>
+# GitHub Licenses API
 
 
-<no value>
+The Licenses API returns metadata about popular open source licenses and information about a particular project's license file. The Licenses API returns metadata about popular open source licenses and information about a particular project's license file.  The Licenses API uses the open source Ruby Gem Licensee to attempt to
+**Categories**:
 
-**Categories**: 
+- [Open Licenses](https://github/awesome-apis/awesome-apis#open-licenses)
+
 
 

@@ -1,8 +1,13 @@
-# <no value>
+# Mozilla Addons
 
 
-<no value>
+Firefox Addons API
+**Categories**:
 
-**Categories**: 
+- [Web](https://github/awesome-apis/awesome-apis#web)
+
+
+
+esome-apis/awesome-apis#solar-data),
 
 

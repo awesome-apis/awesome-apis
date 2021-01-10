@@ -1,8 +1,10 @@
-# <no value>
+# Star Wars API (SWAPI)
 
 
-<no value>
+A Remake of the original api, using the MERN stack
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

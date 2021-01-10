@@ -1,8 +1,10 @@
-# <no value>
+# Font Hinting Api
 
 
-<no value>
+Fonts API - Subscription. Font hinting REST API
+**Categories**:
 
-**Categories**: 
+- [Fonts](https://github/awesome-apis/awesome-apis#fonts)
+
 
 

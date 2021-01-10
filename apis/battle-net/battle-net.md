@@ -1,8 +1,10 @@
-# <no value>
+# Battle.Net
 
 
-<no value>
+Blizzard Entertainment
+**Categories**:
 
-**Categories**: 
+- [Games & Comics](https://github/awesome-apis/awesome-apis#games-and-comics)
+
 
 

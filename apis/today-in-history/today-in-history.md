@@ -1,8 +1,10 @@
-# <no value>
+# Today in History
 
 
-<no value>
+Database of historical events
+**Categories**:
 
-**Categories**: 
+- [Content & Dictionaries](https://github/awesome-apis/awesome-apis#content-and-dictionaries)
+
 
 

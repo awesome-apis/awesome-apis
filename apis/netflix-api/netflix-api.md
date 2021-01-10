@@ -1,8 +1,10 @@
-# <no value>
+# Netflix API
 
 
-<no value>
+The service that handles the (sign-up, discovery and playback) traffic from all devices from all users.  Netflix Open Source
+**Categories**:
 
-**Categories**: 
+- [Video & Media](https://github/awesome-apis/awesome-apis#video-and-media)
+
 
 

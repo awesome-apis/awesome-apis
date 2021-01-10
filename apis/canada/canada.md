@@ -1,8 +1,14 @@
-# <no value>
+# Canada
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/canada/logo_256x256.png" />
+</p>
 
 
-<no value>
+Central bank of Canada
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

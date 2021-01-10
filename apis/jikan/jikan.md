@@ -1,8 +1,14 @@
-# <no value>
+# Jikan
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/jikan/logo_256x256.png" />
+</p>
 
 
-<no value>
+Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnimeList REST based API
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

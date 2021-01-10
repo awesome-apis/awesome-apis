@@ -1,8 +1,10 @@
-# <no value>
+# Tiny.cc
 
 
-<no value>
+Easy-to-use URL shortener.  Supports custom short link ending.  API documentation
+**Categories**:
 
-**Categories**: 
+- [URL Shortening](https://github/awesome-apis/awesome-apis#url-shortening)
+
 
 

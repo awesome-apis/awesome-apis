@@ -1,8 +1,10 @@
-# <no value>
+# OnWater
 
 
-<no value>
+An API to determine if a point (latitude and longitude) is on water, sea, lake, river, or land
+**Categories**:
 
-**Categories**: 
+- [Maps & Geo](https://github/awesome-apis/awesome-apis#maps-and-geo)
+
 
 

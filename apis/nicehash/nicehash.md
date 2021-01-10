@@ -1,8 +1,12 @@
-# <no value>
+# Nicehash
 
 
-<no value>
+Largest Crypto Mining Marketplace
+**Categories**:
 
-**Categories**: 
+- [Cryptocurrency](https://github/awesome-apis/awesome-apis#cryptocurrency)
+
+- [Blockchain & Cryptocurrencies](https://github/awesome-apis/awesome-apis#blockchain-and-cryptocurrencies)
+
 
 

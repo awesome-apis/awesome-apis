@@ -1,8 +1,14 @@
-# <no value>
+# Comichron Data
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/comichron-data/logo_256x256.png" />
+</p>
 
 
-<no value>
+com - comichron-data/api. JSON API for monthly sales data from comichron
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

@@ -1,8 +1,10 @@
-# <no value>
+# GraphQL Jobs
 
 
-<no value>
+GET query missing
+**Categories**:
 
-**Categories**: 
+- [Jobs](https://github/awesome-apis/awesome-apis#jobs)
+
 
 

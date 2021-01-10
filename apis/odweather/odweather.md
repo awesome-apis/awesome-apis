@@ -1,8 +1,14 @@
-# <no value>
+# ODWeather
 
 
-<no value>
+ODWeather API Explore swagger. ODWeather API Explore swagger
+**Categories**:
 
-**Categories**: 
+- [Boating](https://github/awesome-apis/awesome-apis#boating)
+
+- [Marine](https://github/awesome-apis/awesome-apis#marine)
+
+- [Weather](https://github/awesome-apis/awesome-apis#weather)
+
 
 

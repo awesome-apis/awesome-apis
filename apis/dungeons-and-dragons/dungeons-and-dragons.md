@@ -1,8 +1,10 @@
-# <no value>
+# Dungeons and Dragons
 
 
-<no value>
+D&D 5th Edition SRD API. D&D 5th Edition SRD API
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

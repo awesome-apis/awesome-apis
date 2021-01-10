@@ -1,8 +1,12 @@
-# <no value>
+# NBA Stats
 
 
-<no value>
+Current and historical NBA Statistics
+**Categories**:
 
-**Categories**: 
+- [Sport](https://github/awesome-apis/awesome-apis#sport)
+
+- [Sport & Fitness](https://github/awesome-apis/awesome-apis#sport-and-fitness)
+
 
 

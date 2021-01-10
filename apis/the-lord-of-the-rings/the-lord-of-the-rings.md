@@ -1,8 +1,10 @@
-# <no value>
+# The Lord of the Rings
 
 
-<no value>
+The Lord of the Rings API - The one API
+**Categories**:
 
-**Categories**: 
+- [Video & Media](https://github/awesome-apis/awesome-apis#video-and-media)
+
 
 

@@ -1,8 +1,14 @@
-# <no value>
+# NHL Records and Stats
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/nhl-records-and-stats/logo_256x256.png" />
+</p>
 
 
-<no value>
+Documenting the publicly accessible portions of the NHL API
+**Categories**:
 
-**Categories**: 
+- [Sport](https://github/awesome-apis/awesome-apis#sport)
+
 
 

@@ -1,8 +1,13 @@
-# <no value>
+# Oxford Dictionary API
 
 
-<no value>
+Access to Oxford Dictionary services with several different subscription options including a free tier. The Oxford Dictionaries API gives you access to our world-renowned dictionary data, including definitions, translations, synonyms, and audio pronunciations
+**Categories**:
 
-**Categories**: 
+- [Content & Dictionaries](https://github/awesome-apis/awesome-apis#content-and-dictionaries)
+
+
+
+
 
 

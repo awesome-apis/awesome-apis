@@ -1,8 +1,14 @@
-# <no value>
+# Cricket Live Scores
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/cricket-live-scores/logo_256x256.png" />
+</p>
 
 
-<no value>
+Live cricket scores
+**Categories**:
 
-**Categories**: 
+- [Sport & Fitness](https://github/awesome-apis/awesome-apis#sport-and-fitness)
+
 
 

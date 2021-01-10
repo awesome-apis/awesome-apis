@@ -1,8 +1,10 @@
-# <no value>
+# Diabetes
 
 
-<no value>
+Welcome to the PredictBGL API The PredictBGL API allows you to build the power of PredictBGL's diabetes management, coaching and analysis dire. For general information on PredictBGL. com, click here
+**Categories**:
 
-**Categories**: 
+- [Health](https://github/awesome-apis/awesome-apis#health)
+
 
 

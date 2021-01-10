@@ -1,8 +1,10 @@
-# <no value>
+# Sentim-API
 
 
-<no value>
+herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type": "application/json" and body { "text": "Y. HOW TO USE Just send a POST request to /api/v1/ That is https://sentim-api
+**Categories**:
 
-**Categories**: 
+- [AI & ML](https://github/awesome-apis/awesome-apis#ai-and-ml)
+
 
 

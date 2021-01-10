@@ -1,8 +1,10 @@
-# <no value>
+# News Feed Search
 
 
-<no value>
+Otherwise, please contact our support. Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily. 404 Not Found The application you're trying to access doesn't seem to exist
+**Categories**:
 
-**Categories**: 
+- [News & Feeds](https://github/awesome-apis/awesome-apis#news-and-feeds)
+
 
 

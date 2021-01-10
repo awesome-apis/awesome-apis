@@ -1,8 +1,12 @@
-# <no value>
+# Open Trivia
 
 
-<no value>
+Free to use, user-contributed trivia questions!
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
+- [Games & Comics](https://github/awesome-apis/awesome-apis#games-and-comics)
+
 
 

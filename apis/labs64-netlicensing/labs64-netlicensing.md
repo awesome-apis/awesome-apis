@@ -1,8 +1,13 @@
-# <no value>
+# Labs64 NetLicensing
 
 
-<no value>
+) - Innovative License Management Solution.  NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server
+**Categories**:
 
-**Categories**: 
+- [Other](https://github/awesome-apis/awesome-apis#other)
+
+
+
+data),
 
 

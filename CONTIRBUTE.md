@@ -24,3 +24,6 @@ This is a list of APIs that should be added to list. You can pick one, collect a
 - https://developer.amazon.com/apps-and-games/services-and-apis
 - AWS Services
 - Google APIs
+
+# Does API definition has schema?
+Yes, it has - [schema.json]()

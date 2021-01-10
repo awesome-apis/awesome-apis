@@ -1,8 +1,14 @@
-# <no value>
+# LectServe
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/lectserve/logo_256x256.png" />
+</p>
 
 
-<no value>
+Your daily lectionary readings…. Your daily lectionary readings…
+**Categories**:
 
-**Categories**: 
+- [Calendar](https://github/awesome-apis/awesome-apis#calendar)
+
 
 

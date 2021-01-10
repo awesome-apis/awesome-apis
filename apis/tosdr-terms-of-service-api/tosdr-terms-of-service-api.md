@@ -1,8 +1,10 @@
-# <no value>
+# ToSDR terms of service API
 
 
-<no value>
+about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the
+**Categories**:
 
-**Categories**: 
+- [Open Licenses](https://github/awesome-apis/awesome-apis#open-licenses)
+
 
 

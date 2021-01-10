@@ -10,21 +10,21 @@ type API struct {
 	Description   string   `yaml:"description"`
 	URI           string   `yaml:"uri"`
 	IsPaid        bool     `yaml:"is_paid"`
-	Logo          string   `yaml:"icon"`
-	DiscussionURI string   `yaml:"discussion_uri"`
+	Logo          string   `yaml:"logo,omitempty"`
+	DiscussionURI string   `yaml:"discussion_uri,omitempty"`
 	Type          string   `yaml:"type"`
-	Contact       string   `yaml:"contact"`
-	IsDead        bool     `yaml:"is_dead"`
+	Contact       string   `yaml:"contact,omitempty"`
+	IsActive        bool     `yaml:"is_active"`
 
-	Libraries Libraries `yaml:"libraries"`
+	Libraries Libraries `yaml:"libraries,omitempty"`
 }
 
 type APILibrary struct {
 	Name          string `yaml:"name"`
 	Description   string `yaml:"-"`
-	HomepageURI   string `yaml:"homepage_uri" yaml:"homepage_uri"`
+	HomepageURI   string `yaml:"homepage_uri" yaml:"homepage_uri,omitempty"`
 	SourceCodeURI string `yaml:"source_code_uri" yaml:"source_code_uri"`
-	Version       string `yaml:"version"`
+	Version       string `yaml:"version,omitempty"`
 	Platform      string `yaml:"platform"`
 }
 
@@ -45,7 +45,7 @@ func (a APIs) ByCategory() map[string][]*API {
 func (a APIs) Graveyard() []*API {
 	cm := make([]*API, 0)
 	for _, v := range a {
-		if v.IsDead == true {
+		if v.IsActive == false {
 			cm = append(cm, v)
 		}
 	}

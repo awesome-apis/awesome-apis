@@ -1,8 +1,10 @@
-# <no value>
+# Lord of the Rings API
 
 
-<no value>
+Get data about the books, the movie trilogy, many characters and quotes
+**Categories**:
 
-**Categories**: 
+- [Entertainment](https://github/awesome-apis/awesome-apis#entertainment)
+
 
 

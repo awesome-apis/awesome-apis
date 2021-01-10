@@ -1,8 +1,10 @@
-# <no value>
+# Pwrtelegram Bot
 
 
-<no value>
+The PWRTelegram MTProto API. Boosted version of the Telegram bot API
+**Categories**:
 
-**Categories**: 
+- [Social](https://github/awesome-apis/awesome-apis#social)
+
 
 

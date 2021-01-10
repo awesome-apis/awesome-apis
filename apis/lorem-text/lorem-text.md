@@ -1,8 +1,14 @@
-# <no value>
+# Lorem Text
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/lorem-text/logo_256x256.png" />
+</p>
 
 
-<no value>
+Generates Lorem Ipsum text
+**Categories**:
 
-**Categories**: 
+- [Testing](https://github/awesome-apis/awesome-apis#testing)
+
 
 

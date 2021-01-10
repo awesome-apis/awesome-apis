@@ -1,8 +1,10 @@
-# <no value>
+# AbuseIPDB
 
 
-<no value>
+This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration. Introduction The AbuseIPDB API allows you to utilize our database programmatically
+**Categories**:
 
-**Categories**: 
+- [Security](https://github/awesome-apis/awesome-apis#security)
+
 
 

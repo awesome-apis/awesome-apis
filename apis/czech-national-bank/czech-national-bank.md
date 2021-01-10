@@ -1,8 +1,10 @@
-# <no value>
+# Czech National Bank
 
 
-<no value>
+A collection of exchange rates
+**Categories**:
 
-**Categories**: 
+- [Finance & Economics](https://github/awesome-apis/awesome-apis#finance-and-economics)
+
 
 

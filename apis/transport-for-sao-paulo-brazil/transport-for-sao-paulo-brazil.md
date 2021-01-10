@@ -1,8 +1,10 @@
-# <no value>
+# Transport for Sao Paulo, Brazil
 
 
-<no value>
+A categoria Linhas possibilita a consulta pelas linhas de ônibus da cidade de São Paulo, bem como suas informações cadastrais como por exemplo: horário de operação da linha, dias de operação (dia ú. A categoria Linhas possibilita a consulta pelas linhas de ônibus da cidade de São Paulo, bem como suas informações cadastrais como por exemplo: horário de operação da linha, dias de operação (dia ú
+**Categories**:
 
-**Categories**: 
+- [Transportation](https://github/awesome-apis/awesome-apis#transportation)
+
 
 

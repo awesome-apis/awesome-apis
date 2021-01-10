@@ -1,8 +1,10 @@
-# <no value>
+# VATComply.com
 
 
-<no value>
+Rate. VAT validation The VAT validation endpoint allows you to check whether a VAT number is valid.  If the VAT number is valid, it returns information about the company with the countries VAT rates
+**Categories**:
 
-**Categories**: 
+- [Finance & Economics](https://github/awesome-apis/awesome-apis#finance-and-economics)
+
 
 

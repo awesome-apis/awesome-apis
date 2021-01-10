@@ -1,8 +1,10 @@
-# <no value>
+# Agify.io
 
 
-<no value>
+Free API to check and predict the age of a name.  Use the API for research, ad targeting, user segmenting etc. Free API to check and predict the age of a name.
+**Categories**:
 
-**Categories**: 
+- [Development](https://github/awesome-apis/awesome-apis#development)
+
 
 

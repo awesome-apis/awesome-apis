@@ -1,8 +1,10 @@
-# <no value>
+# Foursquare Venue
 
 
-<no value>
+Providing a places search that can be searched by hierarchical list of categories, longitude/latitude etc
+**Categories**:
 
-**Categories**: 
+- [Maps & Geo](https://github/awesome-apis/awesome-apis#maps-and-geo)
+
 
 

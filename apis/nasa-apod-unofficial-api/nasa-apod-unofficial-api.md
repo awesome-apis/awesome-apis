@@ -1,8 +1,10 @@
-# <no value>
+# NASA APOD (unofficial API)
 
 
-<no value>
+What's this API for? This API is for fetching data from NASA's APOD website - a popular service showing the most beautiful astronomical photographs in the world. The data is returned in JSON format
+**Categories**:
 
-**Categories**: 
+- [Math & Science](https://github/awesome-apis/awesome-apis#math-and-science)
+
 
 

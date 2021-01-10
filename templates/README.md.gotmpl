@@ -20,9 +20,9 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 {{ range $category, $apis := .apis }}
 ### {{ $category }}
 {{ range $apis }}
-{{ if eq .IsDead false }}
+{{- if eq .IsActive true }}
 - [{{ .Name }}](https://github.com/apis-directory/apis-directory/tree/master/{{.Slug}}) - {{ .Description | short }}
-{{ end }}
+{{- end }}
 {{ end }}
 {{ end }}
 - [🪦 Graveyard](#graveyard)

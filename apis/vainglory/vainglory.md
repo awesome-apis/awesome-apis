@@ -1,8 +1,14 @@
-# <no value>
+# Vainglory
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/vainglory/logo_256x256.png" />
+</p>
 
 
-<no value>
+Vainglory Players, Matches and Telemetry
+**Categories**:
 
-**Categories**: 
+- [Games & Comics](https://github/awesome-apis/awesome-apis#games-and-comics)
+
 
 

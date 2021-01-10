@@ -1,8 +1,10 @@
-# <no value>
+# Quotes Api
 
 
-<no value>
+They Said So. Quotes API with lot of features
+**Categories**:
 
-**Categories**: 
+- [Quotes](https://github/awesome-apis/awesome-apis#quotes)
+
 
 

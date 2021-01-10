@@ -1,8 +1,14 @@
-# <no value>
+# Peru
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/peru/logo_256x256.png" />
+</p>
 
 
-<no value>
+Central bank of Peru
+**Categories**:
 
-**Categories**: 
+- [Government](https://github/awesome-apis/awesome-apis#government)
+
 
 

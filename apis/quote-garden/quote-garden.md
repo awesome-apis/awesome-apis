@@ -1,8 +1,10 @@
-# <no value>
+# Quote Garden
 
 
-<no value>
+A RESTful API for quotes.  The database currently includes more than 75000 quotes
+**Categories**:
 
-**Categories**: 
+- [Health](https://github/awesome-apis/awesome-apis#health)
+
 
 

@@ -1,8 +1,10 @@
-# <no value>
+# Crypto Monitor Api
 
 
-<no value>
+The Crypto monitor API provides bots that show savings in cryptocurrencies.  Bad Gateway
+**Categories**:
 
-**Categories**: 
+- [Cryptocurrency](https://github/awesome-apis/awesome-apis#cryptocurrency)
+
 
 

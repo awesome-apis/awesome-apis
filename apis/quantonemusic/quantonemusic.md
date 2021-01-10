@@ -1,8 +1,10 @@
-# <no value>
+# QuantOneMusic
 
 
-<no value>
+Answers the need for digital music data. Our API delivers high-resolution data over the wire with a powerful and elegant restful interface. With in-depth search features along a range of parameters and objects, like participation, work and
+**Categories**:
 
-**Categories**: 
+- [Music & Audio](https://github/awesome-apis/awesome-apis#music-and-audio)
+
 
 

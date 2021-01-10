@@ -1,8 +1,10 @@
-# <no value>
+# Bay Area Rapid Transit
 
 
-<no value>
+BART API The BART API gives you access to pretty much all of the BART service and station data available on the BART website. Check out an overview or read our simple License Agreement then jump ri
+**Categories**:
 
-**Categories**: 
+- [Transportation](https://github/awesome-apis/awesome-apis#transportation)
+
 
 

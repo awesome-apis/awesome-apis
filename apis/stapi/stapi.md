@@ -1,8 +1,10 @@
-# <no value>
+# STAPI
 
 
-<no value>
+Information on all things Star Trek
+**Categories**:
 
-**Categories**: 
+- [Video & Media](https://github/awesome-apis/awesome-apis#video-and-media)
+
 
 

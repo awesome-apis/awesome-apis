@@ -1,8 +1,10 @@
-# <no value>
+# Canadian Football League (CFL)
 
 
-<no value>
+CFL API Need assistance? E-mail us or browse the API documentation
+**Categories**:
 
-**Categories**: 
+- [Sport](https://github/awesome-apis/awesome-apis#sport)
+
 
 

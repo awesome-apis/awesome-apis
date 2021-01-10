@@ -1,8 +1,14 @@
-# <no value>
+# Enigma Public
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/enigma-public/logo_256x256.png" />
+</p>
 
 
-<no value>
+Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time. Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.  This site helps you learn about our unique SMB data, understand how to access it, and discover how to leverage it in your daily business processes
+**Categories**:
 
-**Categories**: 
+- [Open Data](https://github/awesome-apis/awesome-apis#open-data)
+
 
 

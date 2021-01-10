@@ -1,8 +1,14 @@
-# <no value>
+# RandomFox
 
 
-<no value>
+Random image of a fox
+**Categories**:
 
-**Categories**: 
+- [Images](https://github/awesome-apis/awesome-apis#images)
+
+- [Random](https://github/awesome-apis/awesome-apis#random)
+
+- [Animals](https://github/awesome-apis/awesome-apis#animals)
+
 
 

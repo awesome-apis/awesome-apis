@@ -1,21 +1,26 @@
-# {{ .Name }}
-{{ if .Logo }}
+# {{ .api.Name }}
+{{ if .api.Logo }}
 <p align="center">
-    <img width="400" src="{{ .Logo }}" />
+    <img width="400" src="{{ .api.Logo }}" />
 </p>
 {{ end }}
 
-{{ .Description }}
+{{ .api.Description }}
 
-**Categories**: {{ range .Categories }} [{{ . }}](https://github/awesome-apis/awesome-apis#{{ . | slug }}),{{end}}
-
-{{ if .Libraries }}
-## Libraries
-{{ range $platform, $libraries := .Libraries }}
-### {{ $platform }}
-{{ range $libraries  }}
-- [{{ .Name }}]({{ .SourceCodeURI }})
+{{- if .api.DiscussionURI }}
+💬 Discussion: [Discuss {{ .api.Name }}](.api.DiscussionURI)
+{{- end }}
+**Categories**:
+{{ range .api.Categories }}
+- [{{ . }}](https://github/awesome-apis/awesome-apis#{{ . | slug }})
 {{ end }}
 
+{{ if .Libraries }}
+## 🗂️ Libraries
+{{ range $platform, $libraries := .Libraries }}
+### {{ $platform }}
+{{- range $libraries  }}
+- {{ .Name }}: [Documentation]({{ .HomepageURI }}), [Source code]({{ .SourceCodeURI }})
+{{- end }}
 {{ end }}
 {{ end }}

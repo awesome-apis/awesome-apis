@@ -1,8 +1,10 @@
-# <no value>
+# OpenRates.io
 
 
-<no value>
+Free live exchange rates and currency conversion API for developers.  ECB rates JSON API. Live exchange rates and currency conversion API
+**Categories**:
 
-**Categories**: 
+- [Finance & Economics](https://github/awesome-apis/awesome-apis#finance-and-economics)
+
 
 

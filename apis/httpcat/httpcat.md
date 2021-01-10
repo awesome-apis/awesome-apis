@@ -1,8 +1,14 @@
-# <no value>
+# HTTPCat
+
+<p align="center">
+    <img width="400" src="https://raw.githubusercontent.com/awesome-apis/awesome-apis/apis/httpcat/logo_256x256.png" />
+</p>
 
 
-<no value>
+API for HTTP Cats.  API for HTTP Cats
+**Categories**:
 
-**Categories**: 
+- [Animals](https://github/awesome-apis/awesome-apis#animals)
+
 
 

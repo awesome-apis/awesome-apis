@@ -1,8 +1,10 @@
-# <no value>
+# Domainsdb.info
 
 
-<no value>
+Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols
+**Categories**:
 
-**Categories**: 
+- [Development](https://github/awesome-apis/awesome-apis#development)
+
 
 

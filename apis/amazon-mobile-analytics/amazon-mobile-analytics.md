@@ -1,8 +1,10 @@
-# <no value>
+# Amazon Mobile Analytics
 
 
-<no value>
+Service for collecting, visualizing, and understanding app usage data at scale
+**Categories**:
 
-**Categories**: 
+- [Analytics](https://github/awesome-apis/awesome-apis#analytics)
+
 
 

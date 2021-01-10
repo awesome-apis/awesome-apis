@@ -1,8 +1,13 @@
-# <no value>
+# Evil Insult Generator
 
 
-<no value>
+The following parameters are optional lang - The language of the insult you want. Defaults to Englis. Generate InsultGET/generate_insult. php This is endpoint serves to generate insults from the API
+**Categories**:
 
-**Categories**: 
+- [Other](https://github/awesome-apis/awesome-apis#other)
+
+
+
+data),
 
 

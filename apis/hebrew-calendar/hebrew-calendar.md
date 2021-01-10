@@ -1,8 +1,10 @@
-# <no value>
+# Hebrew Calendar
 
 
-<no value>
+You can embed Hebcal. com content directly onto your synagogue website with our. Our mission at Hebcal. com is to increase awareness of Jewish holidays and to help Jews to be observant of the mitzvot
+**Categories**:
 
-**Categories**: 
+- [Calendar](https://github/awesome-apis/awesome-apis#calendar)
+
 
 

@@ -1,8 +1,10 @@
-# <no value>
+# ZipCodeAPI
 
 
-<no value>
+Zip Codes to Location The API can convert a zip code to the primary location for the zip code. This includes the city, state, latitude, longitude, time zone information, and NPA area codes for the
+**Categories**:
 
-**Categories**: 
+- [Maps & Geo](https://github/awesome-apis/awesome-apis#maps-and-geo)
+
 
 
